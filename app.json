@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "my-forbid",
+    "slug": "my-forbid",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "my-forbid"
+}
